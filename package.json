@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/jeremybrenner/node-scraper-example/issues"
   },
-  "homepage": "https://github.com/jeremybrenner/node-scraper-example#readme"
+  "homepage": "https://github.com/jeremybrenner/node-scraper-example#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "commander": "^2.9.0",
+    "tinyreq": "^3.2.2"
+  }
 }
